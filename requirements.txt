@@ -43,3 +43,5 @@ crewai_tools
 litellm
 apscheduler
 python-multipart
+flask
+flask-restful
